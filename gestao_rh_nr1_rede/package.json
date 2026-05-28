@@ -1,0 +1,1 @@
+{"name":"gestao-rh-nr1-rede","version":"1.0.0","description":"Plataforma NR-1 Gestão RH Consultoria para rede local","main":"server.js","scripts":{"start":"node server.js"},"license":"MIT"}
